@@ -39,6 +39,10 @@ The database contains 9 main tables:
 
 ---
 
+## 🎥 Demo Video
+
+[▶️ Watch on Google Drive](https://drive.google.com/file/d/FILE_ID/view)
+
 ## 📸 Screenshots
 
 | Microsoft Form | Power BI Dashboard |
