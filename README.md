@@ -41,7 +41,7 @@ The database contains 9 main tables:
 
 ## 🎥 Demo Video
 
-[▶️ Watch on Google Drive](https://drive.google.com/file/d/FILE_ID/view)
+[▶️ Watch on Google Drive](https://drive.google.com/drive/folders/1IflKATg-wUQSB2CdrFSIF4a4-OlDGlj7?usp=drive_link)
 
 ## 📸 Screenshots
 
