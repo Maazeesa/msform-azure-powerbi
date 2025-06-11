@@ -58,7 +58,7 @@ The database contains 9 main tables:
 
 **Maaz** – Data Automation & Integration Enthusiast  
 Contact: mohdmaazeesa5360@gmail.com 
-LinkedIn: linkedin.com/in/mo-maaz-975b33255
+LinkedIn:linkedin.com/in/mo-maaz-975b33255
 
 # msform-azure-powerbi
 Microsoft Forms integrated with Azure SQL and Power BI for real-time data visualization
