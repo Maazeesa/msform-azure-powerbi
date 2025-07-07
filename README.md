@@ -1,3 +1,4 @@
+# Data Analyst
 # Microsoft Forms + Azure SQL + Power BI Integration
 
 This project demonstrates a complete data pipeline using **Microsoft Forms**, **Azure SQL Database**, and **Power BI** for real-time data visualization.
@@ -61,7 +62,7 @@ The database contains 9 main tables:
 ## 📌 Author
 
 **Maaz** – Data Automation & Integration Enthusiast  
-Contact: mohdmaazeesa5360@gmail.com 
+Contact: mohdmaazeesa5360@gmail.com
 LinkedIn:linkedin.com/in/mo-maaz-975b33255
 
 # msform-azure-powerbi
